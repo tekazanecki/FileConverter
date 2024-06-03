@@ -6,6 +6,8 @@ arch/*
 input/*
 !output/
 output/*
+/test.bat
+/test.py
 
 # Ignoring OS-specific files
 *.pyc
@@ -25,3 +27,4 @@ __pycache__/
 
 # Ignoring files created by the operating system
 Thumbs.db
+
